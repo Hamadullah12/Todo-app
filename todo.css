@@ -26,15 +26,14 @@
             margin-bottom: 40px;
         }
 
-        /* Input field styling */
+        /* Input Type*/
         #taskInput {
-            width: 75%;
+            width: 65%;
             padding: 10px;
-            border: 2px solid #ddd;
-            border-radius: 5px;
-            margin-bottom: 10px;
+            border: 2px solid #5f5d5d;
+            border-radius: 12px;
+            margin-bottom: 20px;
             outline: none;
-            transition: border 0.3s;
         }
 
         #taskInput:focus {
